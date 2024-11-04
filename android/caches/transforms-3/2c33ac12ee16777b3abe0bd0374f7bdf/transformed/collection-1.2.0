@@ -1,0 +1,17 @@
+androidx.collection.ArrayMap
+androidx.collection.ArrayMap$EntrySet
+androidx.collection.ArrayMap$KeyIterator
+androidx.collection.ArrayMap$KeySet
+androidx.collection.ArrayMap$MapIterator
+androidx.collection.ArrayMap$ValueCollection
+androidx.collection.ArrayMap$ValueIterator
+androidx.collection.ArraySet
+androidx.collection.ArraySet$ElementIterator
+androidx.collection.CircularArray
+androidx.collection.CircularIntArray
+androidx.collection.ContainerHelpers
+androidx.collection.IndexBasedArrayIterator
+androidx.collection.LongSparseArray
+androidx.collection.LruCache
+androidx.collection.SimpleArrayMap
+androidx.collection.SparseArrayCompat
